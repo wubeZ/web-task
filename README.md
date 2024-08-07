@@ -9,6 +9,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
+- [Screenshot](#screenshot)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -52,6 +53,10 @@
 
 - The button changes color on hover and resets text color on click.
 
+## Screenshot
+
+![Screenshot Image](https://github.com/wubeZ/web-task/blob/main/screenshots/screenshot-1.png)
+  
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
